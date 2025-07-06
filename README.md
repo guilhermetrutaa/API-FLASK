@@ -40,8 +40,8 @@ A tabela no banco de dados MySQL deve conter, pelo menos, os seguintes campos:
 1. Clone este repositório:
 
    ```bash
-   git clone <url-do-repositorio>
-   cd <nome-da-pasta>
+   git clone https://github.com/guilhermetrutaa/API-FLASK.git
+   cd API-FLASK
    ```
 
 2. Instale as dependências necessárias:
@@ -115,12 +115,14 @@ DELETE http://localhost:5000/produtos/1
 
 ---
 
-## Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-## Contato
+## ✉️ Contato
 
-Para dúvidas ou contribuições, abra uma issue ou envie uma mensagem.
+Guilherme Truta/guilhermetrutaa - guilhermetrutaa@gmail.com
+
+Link Projeto:
